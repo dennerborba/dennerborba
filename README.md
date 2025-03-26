@@ -11,7 +11,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=dennerborba&show_icons=true&locale=en&layout=compact&exclude_repo=imersaoPythonAlura&theme=tokyonight" align = "center"/>
 </p>
 
-## Linguagens que utilizo atualmente
+## Linguagens/frameworks que utilizo atualmente
 <div style="display: inline_block"> <br>  
 <img align="center" alt="JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />  
 <img align="center" alt="JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" /> 
