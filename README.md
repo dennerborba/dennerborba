@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&size=40&duration=3000&pause=1000&color=38BDAE&background=0D3B0900&center=false&vCenter=true&width=435&lines=My+name+is+Denner;I+am+21+years+old;I'm+learning+Angular;and+TypeScript)](https://git.io/typing-svg)  
 
 - 🤓 Formado em Análise e Desenvolvimento de Sistemas
-- 👨‍🏫 Cursando atualmente +Devs2Blu C# | Angular + Inglês
+- 👨‍🏫 Finalizei recentemente o curso +Devs2Blu C# | Angular + Inglês
 <div>
   <a href="https://www.linkedin.com/in/dennerdeborba/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
